@@ -71,5 +71,13 @@ const menu = [
       img: 'https://cdn.pixabay.com/photo/2017/05/28/01/59/chocolate-2349917__480.jpg',
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
+    {
+      id: 10,
+      title: 'quarantine buddy',
+      category: 'shakes',
+      price: 16.99,
+      img: 'https://cdn.pixabay.com/photo/2017/05/28/01/59/chocolate-2349917__480.jpg',
+      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    },
   ];
   export default menu;
